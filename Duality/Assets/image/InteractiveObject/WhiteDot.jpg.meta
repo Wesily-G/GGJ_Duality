@@ -1,10 +1,7 @@
 fileFormatVersion: 2
-guid: da0d9a040e576554b8818b9b18f89e36
+guid: 0be84a5ddc50912459463cfe2e9bb6d9
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 8725378113554761895
-    second: BlackFloor_0
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -50,7 +47,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 150
-  spriteBorder: {x: 405, y: 382, z: 406, w: 376}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -104,28 +101,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: BlackFloor_0
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 386
-        width: 599
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a8466d4a25c61970800000000000000
-      internalID: 8725378113554761895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
