@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 20104571}
   - component: {fileID: 20104570}
+  - component: {fileID: 20104572}
   m_Layer: 0
   m_Name: Zhang25 (1)
   m_TagString: Untagged
@@ -205,6 +206,32 @@ Transform:
   m_Father: {fileID: 1897689017}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &20104572
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 20104569}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.0290792, y: 0.98334277}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 13.653334, y: 13.653334}
+    newSize: {x: 13.653334, y: 13.653334}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.9842248, y: 7.661807}
+  m_EdgeRadius: 0
 --- !u!1001 &75103140
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -698,6 +725,7 @@ GameObject:
   m_Component:
   - component: {fileID: 722693225}
   - component: {fileID: 722693224}
+  - component: {fileID: 722693226}
   m_Layer: 0
   m_Name: Zhang75
   m_TagString: Untagged
@@ -770,6 +798,32 @@ Transform:
   m_Father: {fileID: 1897689017}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &722693226
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722693223}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.1205528, y: 1.8980796}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 13.653334, y: 13.653334}
+    newSize: {x: 13.653334, y: 13.653334}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8927522, y: 5.5579114}
+  m_EdgeRadius: 0
 --- !u!1001 &746231735
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -842,6 +896,7 @@ GameObject:
   m_Component:
   - component: {fileID: 930416346}
   - component: {fileID: 930416345}
+  - component: {fileID: 930416347}
   m_Layer: 0
   m_Name: Zhang25
   m_TagString: Untagged
@@ -914,6 +969,32 @@ Transform:
   m_Father: {fileID: 1897689017}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &930416347
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930416344}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.0519476, y: 0.9833436}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 13.653334, y: 13.653334}
+    newSize: {x: 13.653334, y: 13.653334}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8470144, y: 7.661807}
+  m_EdgeRadius: 0
 --- !u!1001 &931753289
 PrefabInstance:
   m_ObjectHideFlags: 0
